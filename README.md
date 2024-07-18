@@ -1,7 +1,9 @@
 ①課題番号-プロダクト名
 シナリオゲーム
+
 ②課題内容（どんな作品か）
 カルチャーマップをもとにしたゲーム
+
 ③DEMO
 https://loveindia.sakura.ne.jp/tyranoscript_v523%20_indiangame/tyranoscript_v523/index.html
 
@@ -10,6 +12,7 @@ https://loveindia.sakura.ne.jp/tyranoscript_v523%20_indiangame/tyranoscript_v523
 
 ⑥難しかった点・次回トライしたいこと(又は機能)
 データベース接続をしたかったですが、やり方がわからず断念です。。。
+
 ⑦質問・疑問・感想、シェアしたいこと等なんでも
 今回はティラノスクリプトを使用して作成しました。
 https://tyrano.jp/
